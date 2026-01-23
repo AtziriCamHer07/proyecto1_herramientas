@@ -1,1 +1,2 @@
 alumno: atziri aidaly camacho hernandez
+alumno 2: diego mendivil vazquez
